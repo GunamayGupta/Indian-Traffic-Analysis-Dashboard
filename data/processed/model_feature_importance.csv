@@ -1,0 +1,16 @@
+Feature,Importance
+alcohol_involvement_Yes,0.333495
+weather_conditions_Foggy,0.082561
+weather_conditions_Rainy,0.069592
+weather_conditions_Stormy,0.063327
+road_condition_Dry,0.034199
+road_condition_Wet,0.032185
+lighting_conditions_Dusk,0.030180
+lighting_conditions_Dawn,0.026304
+road_condition_Under Construction,0.025460
+lighting_conditions_Daylight,0.022730
+weather_conditions_Hazy,0.019922
+city_name_Jaipur,0.009723
+city_name_Lucknow,0.008121
+is_monsoon_month,0.007940
+road_type_Village Road,0.007551

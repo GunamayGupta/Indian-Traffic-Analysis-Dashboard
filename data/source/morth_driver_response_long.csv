@@ -1,0 +1,577 @@
+sno,stateut,region,regionid,num_accidents,year,cause_code,cause_label
+30,A & N Islands,southeast,7,11,2014,wrongside,Driving on Wrong Side
+30,A & N Islands,southeast,7,25,2014,alcintake,Drunk Driving / Alcohol Intake
+30,A & N Islands,southeast,7,0,2014,asleep,Fatigue / Falling Asleep
+30,A & N Islands,southeast,7,7,2014,overtaking,Improper Overtaking
+30,A & N Islands,southeast,7,0,2014,signalavoid,Jumping Red Light / Signal Violation
+30,A & N Islands,southeast,7,20,2014,lanejumping,Lane Jumping
+30,A & N Islands,southeast,7,0,2014,othercause,Other Causes
+30,A & N Islands,southeast,7,94,2014,overspeed,Over-Speeding
+30,A & N Islands,southeast,7,31,2016,wrongside,Driving on Wrong Side
+30,A & N Islands,southeast,7,27,2016,alcintake,Drunk Driving / Alcohol Intake
+30,A & N Islands,southeast,7,0,2016,asleep,Fatigue / Falling Asleep
+30,A & N Islands,southeast,7,15,2016,overtaking,Improper Overtaking
+30,A & N Islands,southeast,7,2,2016,signalavoid,Jumping Red Light / Signal Violation
+30,A & N Islands,southeast,7,0,2016,lanejumping,Lane Jumping
+30,A & N Islands,southeast,7,39,2016,othercause,Other Causes
+30,A & N Islands,southeast,7,124,2016,overspeed,Over-Speeding
+1,Andhra Pradesh,south,2,668,2014,wrongside,Driving on Wrong Side
+1,Andhra Pradesh,south,2,594,2014,alcintake,Drunk Driving / Alcohol Intake
+1,Andhra Pradesh,south,2,154,2014,asleep,Fatigue / Falling Asleep
+1,Andhra Pradesh,south,2,507,2014,overtaking,Improper Overtaking
+1,Andhra Pradesh,south,2,29,2014,signalavoid,Jumping Red Light / Signal Violation
+1,Andhra Pradesh,south,2,328,2014,lanejumping,Lane Jumping
+1,Andhra Pradesh,south,2,1938,2014,othercause,Other Causes
+1,Andhra Pradesh,south,2,12747,2014,overspeed,Over-Speeding
+1,Andhra Pradesh,south,2,667,2016,wrongside,Driving on Wrong Side
+1,Andhra Pradesh,south,2,128,2016,alcintake,Drunk Driving / Alcohol Intake
+1,Andhra Pradesh,south,2,306,2016,asleep,Fatigue / Falling Asleep
+1,Andhra Pradesh,south,2,1024,2016,overtaking,Improper Overtaking
+1,Andhra Pradesh,south,2,40,2016,signalavoid,Jumping Red Light / Signal Violation
+1,Andhra Pradesh,south,2,325,2016,lanejumping,Lane Jumping
+1,Andhra Pradesh,south,2,2868,2016,othercause,Other Causes
+1,Andhra Pradesh,south,2,17286,2016,overspeed,Over-Speeding
+2,Arunachal Pradesh,northeast,5,0,2014,wrongside,Driving on Wrong Side
+2,Arunachal Pradesh,northeast,5,11,2014,alcintake,Drunk Driving / Alcohol Intake
+2,Arunachal Pradesh,northeast,5,0,2014,asleep,Fatigue / Falling Asleep
+2,Arunachal Pradesh,northeast,5,0,2014,overtaking,Improper Overtaking
+2,Arunachal Pradesh,northeast,5,0,2014,signalavoid,Jumping Red Light / Signal Violation
+2,Arunachal Pradesh,northeast,5,0,2014,lanejumping,Lane Jumping
+2,Arunachal Pradesh,northeast,5,22,2014,othercause,Other Causes
+2,Arunachal Pradesh,northeast,5,16,2014,overspeed,Over-Speeding
+2,Arunachal Pradesh,northeast,5,7,2016,wrongside,Driving on Wrong Side
+2,Arunachal Pradesh,northeast,5,15,2016,alcintake,Drunk Driving / Alcohol Intake
+2,Arunachal Pradesh,northeast,5,8,2016,asleep,Fatigue / Falling Asleep
+2,Arunachal Pradesh,northeast,5,8,2016,overtaking,Improper Overtaking
+2,Arunachal Pradesh,northeast,5,0,2016,signalavoid,Jumping Red Light / Signal Violation
+2,Arunachal Pradesh,northeast,5,11,2016,lanejumping,Lane Jumping
+2,Arunachal Pradesh,northeast,5,18,2016,othercause,Other Causes
+2,Arunachal Pradesh,northeast,5,45,2016,overspeed,Over-Speeding
+3,Assam,northeast,5,156,2014,wrongside,Driving on Wrong Side
+3,Assam,northeast,5,613,2014,alcintake,Drunk Driving / Alcohol Intake
+3,Assam,northeast,5,3,2014,asleep,Fatigue / Falling Asleep
+3,Assam,northeast,5,129,2014,overtaking,Improper Overtaking
+3,Assam,northeast,5,7,2014,signalavoid,Jumping Red Light / Signal Violation
+3,Assam,northeast,5,104,2014,lanejumping,Lane Jumping
+3,Assam,northeast,5,628,2014,othercause,Other Causes
+3,Assam,northeast,5,4596,2014,overspeed,Over-Speeding
+3,Assam,northeast,5,334,2016,wrongside,Driving on Wrong Side
+3,Assam,northeast,5,352,2016,alcintake,Drunk Driving / Alcohol Intake
+3,Assam,northeast,5,3,2016,asleep,Fatigue / Falling Asleep
+3,Assam,northeast,5,371,2016,overtaking,Improper Overtaking
+3,Assam,northeast,5,64,2016,signalavoid,Jumping Red Light / Signal Violation
+3,Assam,northeast,5,156,2016,lanejumping,Lane Jumping
+3,Assam,northeast,5,873,2016,othercause,Other Causes
+3,Assam,northeast,5,3520,2016,overspeed,Over-Speeding
+4,Bihar,north,1,308,2014,wrongside,Driving on Wrong Side
+4,Bihar,north,1,1680,2014,alcintake,Drunk Driving / Alcohol Intake
+4,Bihar,north,1,72,2014,asleep,Fatigue / Falling Asleep
+4,Bihar,north,1,278,2014,overtaking,Improper Overtaking
+4,Bihar,north,1,7,2014,signalavoid,Jumping Red Light / Signal Violation
+4,Bihar,north,1,236,2014,lanejumping,Lane Jumping
+4,Bihar,north,1,439,2014,othercause,Other Causes
+4,Bihar,north,1,1496,2014,overspeed,Over-Speeding
+4,Bihar,north,1,458,2016,wrongside,Driving on Wrong Side
+4,Bihar,north,1,593,2016,alcintake,Drunk Driving / Alcohol Intake
+4,Bihar,north,1,122,2016,asleep,Fatigue / Falling Asleep
+4,Bihar,north,1,573,2016,overtaking,Improper Overtaking
+4,Bihar,north,1,8,2016,signalavoid,Jumping Red Light / Signal Violation
+4,Bihar,north,1,156,2016,lanejumping,Lane Jumping
+4,Bihar,north,1,612,2016,othercause,Other Causes
+4,Bihar,north,1,2323,2016,overspeed,Over-Speeding
+31,Chandigarh,north,1,17,2014,wrongside,Driving on Wrong Side
+31,Chandigarh,north,1,11,2014,alcintake,Drunk Driving / Alcohol Intake
+31,Chandigarh,north,1,0,2014,asleep,Fatigue / Falling Asleep
+31,Chandigarh,north,1,83,2014,overtaking,Improper Overtaking
+31,Chandigarh,north,1,0,2014,signalavoid,Jumping Red Light / Signal Violation
+31,Chandigarh,north,1,25,2014,lanejumping,Lane Jumping
+31,Chandigarh,north,1,7,2014,othercause,Other Causes
+31,Chandigarh,north,1,160,2014,overspeed,Over-Speeding
+31,Chandigarh,north,1,17,2016,wrongside,Driving on Wrong Side
+31,Chandigarh,north,1,9,2016,alcintake,Drunk Driving / Alcohol Intake
+31,Chandigarh,north,1,0,2016,asleep,Fatigue / Falling Asleep
+31,Chandigarh,north,1,0,2016,overtaking,Improper Overtaking
+31,Chandigarh,north,1,10,2016,signalavoid,Jumping Red Light / Signal Violation
+31,Chandigarh,north,1,5,2016,lanejumping,Lane Jumping
+31,Chandigarh,north,1,7,2016,othercause,Other Causes
+31,Chandigarh,north,1,380,2016,overspeed,Over-Speeding
+5,Chhattisgarh,centre,9,266,2014,wrongside,Driving on Wrong Side
+5,Chhattisgarh,centre,9,335,2014,alcintake,Drunk Driving / Alcohol Intake
+5,Chhattisgarh,centre,9,81,2014,asleep,Fatigue / Falling Asleep
+5,Chhattisgarh,centre,9,188,2014,overtaking,Improper Overtaking
+5,Chhattisgarh,centre,9,10,2014,signalavoid,Jumping Red Light / Signal Violation
+5,Chhattisgarh,centre,9,313,2014,lanejumping,Lane Jumping
+5,Chhattisgarh,centre,9,520,2014,othercause,Other Causes
+5,Chhattisgarh,centre,9,6720,2014,overspeed,Over-Speeding
+5,Chhattisgarh,centre,9,410,2016,wrongside,Driving on Wrong Side
+5,Chhattisgarh,centre,9,145,2016,alcintake,Drunk Driving / Alcohol Intake
+5,Chhattisgarh,centre,9,144,2016,asleep,Fatigue / Falling Asleep
+5,Chhattisgarh,centre,9,467,2016,overtaking,Improper Overtaking
+5,Chhattisgarh,centre,9,62,2016,signalavoid,Jumping Red Light / Signal Violation
+5,Chhattisgarh,centre,9,175,2016,lanejumping,Lane Jumping
+5,Chhattisgarh,centre,9,953,2016,othercause,Other Causes
+5,Chhattisgarh,centre,9,6660,2016,overspeed,Over-Speeding
+32,D & N Haveli,west,4,0,2014,wrongside,Driving on Wrong Side
+32,D & N Haveli,west,4,1,2014,alcintake,Drunk Driving / Alcohol Intake
+32,D & N Haveli,west,4,0,2014,asleep,Fatigue / Falling Asleep
+32,D & N Haveli,west,4,0,2014,overtaking,Improper Overtaking
+32,D & N Haveli,west,4,0,2014,signalavoid,Jumping Red Light / Signal Violation
+32,D & N Haveli,west,4,0,2014,lanejumping,Lane Jumping
+32,D & N Haveli,west,4,65,2014,othercause,Other Causes
+32,D & N Haveli,west,4,21,2014,overspeed,Over-Speeding
+32,D & N Haveli,west,4,5,2016,wrongside,Driving on Wrong Side
+32,D & N Haveli,west,4,0,2016,alcintake,Drunk Driving / Alcohol Intake
+32,D & N Haveli,west,4,2,2016,asleep,Fatigue / Falling Asleep
+32,D & N Haveli,west,4,5,2016,overtaking,Improper Overtaking
+32,D & N Haveli,west,4,0,2016,signalavoid,Jumping Red Light / Signal Violation
+32,D & N Haveli,west,4,0,2016,lanejumping,Lane Jumping
+32,D & N Haveli,west,4,4,2016,othercause,Other Causes
+32,D & N Haveli,west,4,8,2016,overspeed,Over-Speeding
+33,Daman & Diu,west,4,1,2014,wrongside,Driving on Wrong Side
+33,Daman & Diu,west,4,0,2014,alcintake,Drunk Driving / Alcohol Intake
+33,Daman & Diu,west,4,0,2014,asleep,Fatigue / Falling Asleep
+33,Daman & Diu,west,4,2,2014,overtaking,Improper Overtaking
+33,Daman & Diu,west,4,0,2014,signalavoid,Jumping Red Light / Signal Violation
+33,Daman & Diu,west,4,2,2014,lanejumping,Lane Jumping
+33,Daman & Diu,west,4,10,2014,othercause,Other Causes
+33,Daman & Diu,west,4,21,2014,overspeed,Over-Speeding
+33,Daman & Diu,west,4,2,2016,wrongside,Driving on Wrong Side
+33,Daman & Diu,west,4,7,2016,alcintake,Drunk Driving / Alcohol Intake
+33,Daman & Diu,west,4,1,2016,asleep,Fatigue / Falling Asleep
+33,Daman & Diu,west,4,2,2016,overtaking,Improper Overtaking
+33,Daman & Diu,west,4,0,2016,signalavoid,Jumping Red Light / Signal Violation
+33,Daman & Diu,west,4,0,2016,lanejumping,Lane Jumping
+33,Daman & Diu,west,4,27,2016,othercause,Other Causes
+33,Daman & Diu,west,4,29,2016,overspeed,Over-Speeding
+34,Delhi,north,1,0,2014,wrongside,Driving on Wrong Side
+34,Delhi,north,1,51,2014,alcintake,Drunk Driving / Alcohol Intake
+34,Delhi,north,1,0,2014,asleep,Fatigue / Falling Asleep
+34,Delhi,north,1,0,2014,overtaking,Improper Overtaking
+34,Delhi,north,1,0,2014,signalavoid,Jumping Red Light / Signal Violation
+34,Delhi,north,1,0,2014,lanejumping,Lane Jumping
+34,Delhi,north,1,0,2014,othercause,Other Causes
+34,Delhi,north,1,0,2014,overspeed,Over-Speeding
+34,Delhi,north,1,131,2016,wrongside,Driving on Wrong Side
+34,Delhi,north,1,164,2016,alcintake,Drunk Driving / Alcohol Intake
+34,Delhi,north,1,0,2016,asleep,Fatigue / Falling Asleep
+34,Delhi,north,1,211,2016,overtaking,Improper Overtaking
+34,Delhi,north,1,229,2016,signalavoid,Jumping Red Light / Signal Violation
+34,Delhi,north,1,129,2016,lanejumping,Lane Jumping
+34,Delhi,north,1,2838,2016,othercause,Other Causes
+34,Delhi,north,1,1696,2016,overspeed,Over-Speeding
+6,Goa,west,4,61,2014,wrongside,Driving on Wrong Side
+6,Goa,west,4,9,2014,alcintake,Drunk Driving / Alcohol Intake
+6,Goa,west,4,4,2014,asleep,Fatigue / Falling Asleep
+6,Goa,west,4,33,2014,overtaking,Improper Overtaking
+6,Goa,west,4,0,2014,signalavoid,Jumping Red Light / Signal Violation
+6,Goa,west,4,8,2014,lanejumping,Lane Jumping
+6,Goa,west,4,159,2014,othercause,Other Causes
+6,Goa,west,4,3148,2014,overspeed,Over-Speeding
+6,Goa,west,4,19,2016,wrongside,Driving on Wrong Side
+6,Goa,west,4,3,2016,alcintake,Drunk Driving / Alcohol Intake
+6,Goa,west,4,4,2016,asleep,Fatigue / Falling Asleep
+6,Goa,west,4,80,2016,overtaking,Improper Overtaking
+6,Goa,west,4,0,2016,signalavoid,Jumping Red Light / Signal Violation
+6,Goa,west,4,0,2016,lanejumping,Lane Jumping
+6,Goa,west,4,247,2016,othercause,Other Causes
+6,Goa,west,4,3883,2016,overspeed,Over-Speeding
+7,Gujarat,west,4,394,2014,wrongside,Driving on Wrong Side
+7,Gujarat,west,4,42,2014,alcintake,Drunk Driving / Alcohol Intake
+7,Gujarat,west,4,95,2014,asleep,Fatigue / Falling Asleep
+7,Gujarat,west,4,641,2014,overtaking,Improper Overtaking
+7,Gujarat,west,4,51,2014,signalavoid,Jumping Red Light / Signal Violation
+7,Gujarat,west,4,370,2014,lanejumping,Lane Jumping
+7,Gujarat,west,4,283,2014,othercause,Other Causes
+7,Gujarat,west,4,13752,2014,overspeed,Over-Speeding
+7,Gujarat,west,4,733,2016,wrongside,Driving on Wrong Side
+7,Gujarat,west,4,64,2016,alcintake,Drunk Driving / Alcohol Intake
+7,Gujarat,west,4,156,2016,asleep,Fatigue / Falling Asleep
+7,Gujarat,west,4,1016,2016,overtaking,Improper Overtaking
+7,Gujarat,west,4,261,2016,signalavoid,Jumping Red Light / Signal Violation
+7,Gujarat,west,4,662,2016,lanejumping,Lane Jumping
+7,Gujarat,west,4,904,2016,othercause,Other Causes
+7,Gujarat,west,4,13314,2016,overspeed,Over-Speeding
+8,Haryana,north,1,393,2014,wrongside,Driving on Wrong Side
+8,Haryana,north,1,1095,2014,alcintake,Drunk Driving / Alcohol Intake
+8,Haryana,north,1,154,2014,asleep,Fatigue / Falling Asleep
+8,Haryana,north,1,206,2014,overtaking,Improper Overtaking
+8,Haryana,north,1,93,2014,signalavoid,Jumping Red Light / Signal Violation
+8,Haryana,north,1,179,2014,lanejumping,Lane Jumping
+8,Haryana,north,1,292,2014,othercause,Other Causes
+8,Haryana,north,1,4185,2014,overspeed,Over-Speeding
+8,Haryana,north,1,913,2016,wrongside,Driving on Wrong Side
+8,Haryana,north,1,529,2016,alcintake,Drunk Driving / Alcohol Intake
+8,Haryana,north,1,462,2016,asleep,Fatigue / Falling Asleep
+8,Haryana,north,1,1134,2016,overtaking,Improper Overtaking
+8,Haryana,north,1,592,2016,signalavoid,Jumping Red Light / Signal Violation
+8,Haryana,north,1,690,2016,lanejumping,Lane Jumping
+8,Haryana,north,1,1210,2016,othercause,Other Causes
+8,Haryana,north,1,2344,2016,overspeed,Over-Speeding
+9,Himachal Pradesh,north,1,43,2014,wrongside,Driving on Wrong Side
+9,Himachal Pradesh,north,1,74,2014,alcintake,Drunk Driving / Alcohol Intake
+9,Himachal Pradesh,north,1,0,2014,asleep,Fatigue / Falling Asleep
+9,Himachal Pradesh,north,1,21,2014,overtaking,Improper Overtaking
+9,Himachal Pradesh,north,1,0,2014,signalavoid,Jumping Red Light / Signal Violation
+9,Himachal Pradesh,north,1,10,2014,lanejumping,Lane Jumping
+9,Himachal Pradesh,north,1,0,2014,othercause,Other Causes
+9,Himachal Pradesh,north,1,2763,2014,overspeed,Over-Speeding
+9,Himachal Pradesh,north,1,21,2016,wrongside,Driving on Wrong Side
+9,Himachal Pradesh,north,1,72,2016,alcintake,Drunk Driving / Alcohol Intake
+9,Himachal Pradesh,north,1,0,2016,asleep,Fatigue / Falling Asleep
+9,Himachal Pradesh,north,1,195,2016,overtaking,Improper Overtaking
+9,Himachal Pradesh,north,1,0,2016,signalavoid,Jumping Red Light / Signal Violation
+9,Himachal Pradesh,north,1,78,2016,lanejumping,Lane Jumping
+9,Himachal Pradesh,north,1,1392,2016,othercause,Other Causes
+9,Himachal Pradesh,north,1,516,2016,overspeed,Over-Speeding
+10,Jammu & Kashmir,north,1,58,2014,wrongside,Driving on Wrong Side
+10,Jammu & Kashmir,north,1,388,2014,alcintake,Drunk Driving / Alcohol Intake
+10,Jammu & Kashmir,north,1,0,2014,asleep,Fatigue / Falling Asleep
+10,Jammu & Kashmir,north,1,67,2014,overtaking,Improper Overtaking
+10,Jammu & Kashmir,north,1,0,2014,signalavoid,Jumping Red Light / Signal Violation
+10,Jammu & Kashmir,north,1,29,2014,lanejumping,Lane Jumping
+10,Jammu & Kashmir,north,1,315,2014,othercause,Other Causes
+10,Jammu & Kashmir,north,1,2859,2014,overspeed,Over-Speeding
+10,Jammu & Kashmir,north,1,14,2016,wrongside,Driving on Wrong Side
+10,Jammu & Kashmir,north,1,47,2016,alcintake,Drunk Driving / Alcohol Intake
+10,Jammu & Kashmir,north,1,0,2016,asleep,Fatigue / Falling Asleep
+10,Jammu & Kashmir,north,1,18,2016,overtaking,Improper Overtaking
+10,Jammu & Kashmir,north,1,0,2016,signalavoid,Jumping Red Light / Signal Violation
+10,Jammu & Kashmir,north,1,2,2016,lanejumping,Lane Jumping
+10,Jammu & Kashmir,north,1,633,2016,othercause,Other Causes
+10,Jammu & Kashmir,north,1,2428,2016,overspeed,Over-Speeding
+11,Jharkhand,centre,9,221,2014,wrongside,Driving on Wrong Side
+11,Jharkhand,centre,9,611,2014,alcintake,Drunk Driving / Alcohol Intake
+11,Jharkhand,centre,9,6,2014,asleep,Fatigue / Falling Asleep
+11,Jharkhand,centre,9,68,2014,overtaking,Improper Overtaking
+11,Jharkhand,centre,9,1,2014,signalavoid,Jumping Red Light / Signal Violation
+11,Jharkhand,centre,9,149,2014,lanejumping,Lane Jumping
+11,Jharkhand,centre,9,25,2014,othercause,Other Causes
+11,Jharkhand,centre,9,1627,2014,overspeed,Over-Speeding
+11,Jharkhand,centre,9,169,2016,wrongside,Driving on Wrong Side
+11,Jharkhand,centre,9,543,2016,alcintake,Drunk Driving / Alcohol Intake
+11,Jharkhand,centre,9,0,2016,asleep,Fatigue / Falling Asleep
+11,Jharkhand,centre,9,155,2016,overtaking,Improper Overtaking
+11,Jharkhand,centre,9,37,2016,signalavoid,Jumping Red Light / Signal Violation
+11,Jharkhand,centre,9,110,2016,lanejumping,Lane Jumping
+11,Jharkhand,centre,9,0,2016,othercause,Other Causes
+11,Jharkhand,centre,9,652,2016,overspeed,Over-Speeding
+12,Karnataka,south,2,877,2014,wrongside,Driving on Wrong Side
+12,Karnataka,south,2,2207,2014,alcintake,Drunk Driving / Alcohol Intake
+12,Karnataka,south,2,145,2014,asleep,Fatigue / Falling Asleep
+12,Karnataka,south,2,944,2014,overtaking,Improper Overtaking
+12,Karnataka,south,2,99,2014,signalavoid,Jumping Red Light / Signal Violation
+12,Karnataka,south,2,455,2014,lanejumping,Lane Jumping
+12,Karnataka,south,2,4700,2014,othercause,Other Causes
+12,Karnataka,south,2,23370,2014,overspeed,Over-Speeding
+12,Karnataka,south,2,900,2016,wrongside,Driving on Wrong Side
+12,Karnataka,south,2,396,2016,alcintake,Drunk Driving / Alcohol Intake
+12,Karnataka,south,2,40,2016,asleep,Fatigue / Falling Asleep
+12,Karnataka,south,2,1019,2016,overtaking,Improper Overtaking
+12,Karnataka,south,2,228,2016,signalavoid,Jumping Red Light / Signal Violation
+12,Karnataka,south,2,292,2016,lanejumping,Lane Jumping
+12,Karnataka,south,2,4955,2016,othercause,Other Causes
+12,Karnataka,south,2,31506,2016,overspeed,Over-Speeding
+13,Kerala,south,2,1138,2014,wrongside,Driving on Wrong Side
+13,Kerala,south,2,35,2014,alcintake,Drunk Driving / Alcohol Intake
+13,Kerala,south,2,1393,2014,asleep,Fatigue / Falling Asleep
+13,Kerala,south,2,1217,2014,overtaking,Improper Overtaking
+13,Kerala,south,2,92,2014,signalavoid,Jumping Red Light / Signal Violation
+13,Kerala,south,2,1178,2014,lanejumping,Lane Jumping
+13,Kerala,south,2,86,2014,othercause,Other Causes
+13,Kerala,south,2,20611,2014,overspeed,Over-Speeding
+13,Kerala,south,2,1254,2016,wrongside,Driving on Wrong Side
+13,Kerala,south,2,133,2016,alcintake,Drunk Driving / Alcohol Intake
+13,Kerala,south,2,61,2016,asleep,Fatigue / Falling Asleep
+13,Kerala,south,2,2175,2016,overtaking,Improper Overtaking
+13,Kerala,south,2,406,2016,signalavoid,Jumping Red Light / Signal Violation
+13,Kerala,south,2,121,2016,lanejumping,Lane Jumping
+13,Kerala,south,2,50,2016,othercause,Other Causes
+13,Kerala,south,2,34062,2016,overspeed,Over-Speeding
+35,Lakshadweep,southwest,8,0,2014,wrongside,Driving on Wrong Side
+35,Lakshadweep,southwest,8,0,2014,alcintake,Drunk Driving / Alcohol Intake
+35,Lakshadweep,southwest,8,0,2014,asleep,Fatigue / Falling Asleep
+35,Lakshadweep,southwest,8,0,2014,overtaking,Improper Overtaking
+35,Lakshadweep,southwest,8,0,2014,signalavoid,Jumping Red Light / Signal Violation
+35,Lakshadweep,southwest,8,0,2014,lanejumping,Lane Jumping
+35,Lakshadweep,southwest,8,0,2014,othercause,Other Causes
+35,Lakshadweep,southwest,8,1,2014,overspeed,Over-Speeding
+35,Lakshadweep,southwest,8,0,2016,wrongside,Driving on Wrong Side
+35,Lakshadweep,southwest,8,0,2016,alcintake,Drunk Driving / Alcohol Intake
+35,Lakshadweep,southwest,8,0,2016,asleep,Fatigue / Falling Asleep
+35,Lakshadweep,southwest,8,0,2016,overtaking,Improper Overtaking
+35,Lakshadweep,southwest,8,0,2016,signalavoid,Jumping Red Light / Signal Violation
+35,Lakshadweep,southwest,8,0,2016,lanejumping,Lane Jumping
+35,Lakshadweep,southwest,8,0,2016,othercause,Other Causes
+35,Lakshadweep,southwest,8,0,2016,overspeed,Over-Speeding
+14,Madhya Pradesh,centre,9,932,2014,wrongside,Driving on Wrong Side
+14,Madhya Pradesh,centre,9,3540,2014,alcintake,Drunk Driving / Alcohol Intake
+14,Madhya Pradesh,centre,9,86,2014,asleep,Fatigue / Falling Asleep
+14,Madhya Pradesh,centre,9,1165,2014,overtaking,Improper Overtaking
+14,Madhya Pradesh,centre,9,87,2014,signalavoid,Jumping Red Light / Signal Violation
+14,Madhya Pradesh,centre,9,1526,2014,lanejumping,Lane Jumping
+14,Madhya Pradesh,centre,9,4130,2014,othercause,Other Causes
+14,Madhya Pradesh,centre,9,20967,2014,overspeed,Over-Speeding
+14,Madhya Pradesh,centre,9,1300,2016,wrongside,Driving on Wrong Side
+14,Madhya Pradesh,centre,9,3083,2016,alcintake,Drunk Driving / Alcohol Intake
+14,Madhya Pradesh,centre,9,681,2016,asleep,Fatigue / Falling Asleep
+14,Madhya Pradesh,centre,9,4091,2016,overtaking,Improper Overtaking
+14,Madhya Pradesh,centre,9,413,2016,signalavoid,Jumping Red Light / Signal Violation
+14,Madhya Pradesh,centre,9,657,2016,lanejumping,Lane Jumping
+14,Madhya Pradesh,centre,9,4589,2016,othercause,Other Causes
+14,Madhya Pradesh,centre,9,28017,2016,overspeed,Over-Speeding
+15,Maharashtra,west,4,796,2014,wrongside,Driving on Wrong Side
+15,Maharashtra,west,4,1251,2014,alcintake,Drunk Driving / Alcohol Intake
+15,Maharashtra,west,4,129,2014,asleep,Fatigue / Falling Asleep
+15,Maharashtra,west,4,1687,2014,overtaking,Improper Overtaking
+15,Maharashtra,west,4,9,2014,signalavoid,Jumping Red Light / Signal Violation
+15,Maharashtra,west,4,897,2014,lanejumping,Lane Jumping
+15,Maharashtra,west,4,5537,2014,othercause,Other Causes
+15,Maharashtra,west,4,29790,2014,overspeed,Over-Speeding
+15,Maharashtra,west,4,1922,2016,wrongside,Driving on Wrong Side
+15,Maharashtra,west,4,226,2016,alcintake,Drunk Driving / Alcohol Intake
+15,Maharashtra,west,4,378,2016,asleep,Fatigue / Falling Asleep
+15,Maharashtra,west,4,1883,2016,overtaking,Improper Overtaking
+15,Maharashtra,west,4,97,2016,signalavoid,Jumping Red Light / Signal Violation
+15,Maharashtra,west,4,765,2016,lanejumping,Lane Jumping
+15,Maharashtra,west,4,3883,2016,othercause,Other Causes
+15,Maharashtra,west,4,23643,2016,overspeed,Over-Speeding
+16,Manipur,northeast,5,0,2014,wrongside,Driving on Wrong Side
+16,Manipur,northeast,5,0,2014,alcintake,Drunk Driving / Alcohol Intake
+16,Manipur,northeast,5,0,2014,asleep,Fatigue / Falling Asleep
+16,Manipur,northeast,5,0,2014,overtaking,Improper Overtaking
+16,Manipur,northeast,5,0,2014,signalavoid,Jumping Red Light / Signal Violation
+16,Manipur,northeast,5,0,2014,lanejumping,Lane Jumping
+16,Manipur,northeast,5,0,2014,othercause,Other Causes
+16,Manipur,northeast,5,0,2014,overspeed,Over-Speeding
+16,Manipur,northeast,5,39,2016,wrongside,Driving on Wrong Side
+16,Manipur,northeast,5,71,2016,alcintake,Drunk Driving / Alcohol Intake
+16,Manipur,northeast,5,30,2016,asleep,Fatigue / Falling Asleep
+16,Manipur,northeast,5,46,2016,overtaking,Improper Overtaking
+16,Manipur,northeast,5,0,2016,signalavoid,Jumping Red Light / Signal Violation
+16,Manipur,northeast,5,0,2016,lanejumping,Lane Jumping
+16,Manipur,northeast,5,66,2016,othercause,Other Causes
+16,Manipur,northeast,5,57,2016,overspeed,Over-Speeding
+17,Meghalaya,northeast,5,0,2014,wrongside,Driving on Wrong Side
+17,Meghalaya,northeast,5,25,2014,alcintake,Drunk Driving / Alcohol Intake
+17,Meghalaya,northeast,5,0,2014,asleep,Fatigue / Falling Asleep
+17,Meghalaya,northeast,5,0,2014,overtaking,Improper Overtaking
+17,Meghalaya,northeast,5,0,2014,signalavoid,Jumping Red Light / Signal Violation
+17,Meghalaya,northeast,5,0,2014,lanejumping,Lane Jumping
+17,Meghalaya,northeast,5,0,2014,othercause,Other Causes
+17,Meghalaya,northeast,5,40,2014,overspeed,Over-Speeding
+17,Meghalaya,northeast,5,0,2016,wrongside,Driving on Wrong Side
+17,Meghalaya,northeast,5,35,2016,alcintake,Drunk Driving / Alcohol Intake
+17,Meghalaya,northeast,5,0,2016,asleep,Fatigue / Falling Asleep
+17,Meghalaya,northeast,5,0,2016,overtaking,Improper Overtaking
+17,Meghalaya,northeast,5,0,2016,signalavoid,Jumping Red Light / Signal Violation
+17,Meghalaya,northeast,5,0,2016,lanejumping,Lane Jumping
+17,Meghalaya,northeast,5,0,2016,othercause,Other Causes
+17,Meghalaya,northeast,5,146,2016,overspeed,Over-Speeding
+18,Mizoram,east,3,1,2014,wrongside,Driving on Wrong Side
+18,Mizoram,east,3,16,2014,alcintake,Drunk Driving / Alcohol Intake
+18,Mizoram,east,3,0,2014,asleep,Fatigue / Falling Asleep
+18,Mizoram,east,3,24,2014,overtaking,Improper Overtaking
+18,Mizoram,east,3,0,2014,signalavoid,Jumping Red Light / Signal Violation
+18,Mizoram,east,3,0,2014,lanejumping,Lane Jumping
+18,Mizoram,east,3,28,2014,othercause,Other Causes
+18,Mizoram,east,3,48,2014,overspeed,Over-Speeding
+18,Mizoram,east,3,2,2016,wrongside,Driving on Wrong Side
+18,Mizoram,east,3,27,2016,alcintake,Drunk Driving / Alcohol Intake
+18,Mizoram,east,3,7,2016,asleep,Fatigue / Falling Asleep
+18,Mizoram,east,3,6,2016,overtaking,Improper Overtaking
+18,Mizoram,east,3,0,2016,signalavoid,Jumping Red Light / Signal Violation
+18,Mizoram,east,3,0,2016,lanejumping,Lane Jumping
+18,Mizoram,east,3,11,2016,othercause,Other Causes
+18,Mizoram,east,3,14,2016,overspeed,Over-Speeding
+19,Nagaland,northeast,5,26,2014,wrongside,Driving on Wrong Side
+19,Nagaland,northeast,5,91,2014,alcintake,Drunk Driving / Alcohol Intake
+19,Nagaland,northeast,5,0,2014,asleep,Fatigue / Falling Asleep
+19,Nagaland,northeast,5,0,2014,overtaking,Improper Overtaking
+19,Nagaland,northeast,5,0,2014,signalavoid,Jumping Red Light / Signal Violation
+19,Nagaland,northeast,5,0,2014,lanejumping,Lane Jumping
+19,Nagaland,northeast,5,70,2014,othercause,Other Causes
+19,Nagaland,northeast,5,51,2014,overspeed,Over-Speeding
+19,Nagaland,northeast,5,0,2016,wrongside,Driving on Wrong Side
+19,Nagaland,northeast,5,13,2016,alcintake,Drunk Driving / Alcohol Intake
+19,Nagaland,northeast,5,0,2016,asleep,Fatigue / Falling Asleep
+19,Nagaland,northeast,5,0,2016,overtaking,Improper Overtaking
+19,Nagaland,northeast,5,0,2016,signalavoid,Jumping Red Light / Signal Violation
+19,Nagaland,northeast,5,0,2016,lanejumping,Lane Jumping
+19,Nagaland,northeast,5,0,2016,othercause,Other Causes
+19,Nagaland,northeast,5,11,2016,overspeed,Over-Speeding
+20,Orissa,centre,9,519,2014,wrongside,Driving on Wrong Side
+20,Orissa,centre,9,637,2014,alcintake,Drunk Driving / Alcohol Intake
+20,Orissa,centre,9,161,2014,asleep,Fatigue / Falling Asleep
+20,Orissa,centre,9,336,2014,overtaking,Improper Overtaking
+20,Orissa,centre,9,114,2014,signalavoid,Jumping Red Light / Signal Violation
+20,Orissa,centre,9,286,2014,lanejumping,Lane Jumping
+20,Orissa,centre,9,326,2014,othercause,Other Causes
+20,Orissa,centre,9,3699,2014,overspeed,Over-Speeding
+20,Orissa,centre,9,565,2016,wrongside,Driving on Wrong Side
+20,Orissa,centre,9,1255,2016,alcintake,Drunk Driving / Alcohol Intake
+20,Orissa,centre,9,80,2016,asleep,Fatigue / Falling Asleep
+20,Orissa,centre,9,1194,2016,overtaking,Improper Overtaking
+20,Orissa,centre,9,75,2016,signalavoid,Jumping Red Light / Signal Violation
+20,Orissa,centre,9,188,2016,lanejumping,Lane Jumping
+20,Orissa,centre,9,1375,2016,othercause,Other Causes
+20,Orissa,centre,9,4984,2016,overspeed,Over-Speeding
+36,Puducherry,south,2,8,2014,wrongside,Driving on Wrong Side
+36,Puducherry,south,2,73,2014,alcintake,Drunk Driving / Alcohol Intake
+36,Puducherry,south,2,15,2014,asleep,Fatigue / Falling Asleep
+36,Puducherry,south,2,136,2014,overtaking,Improper Overtaking
+36,Puducherry,south,2,12,2014,signalavoid,Jumping Red Light / Signal Violation
+36,Puducherry,south,2,0,2014,lanejumping,Lane Jumping
+36,Puducherry,south,2,417,2014,othercause,Other Causes
+36,Puducherry,south,2,250,2014,overspeed,Over-Speeding
+36,Puducherry,south,2,90,2016,wrongside,Driving on Wrong Side
+36,Puducherry,south,2,82,2016,alcintake,Drunk Driving / Alcohol Intake
+36,Puducherry,south,2,0,2016,asleep,Fatigue / Falling Asleep
+36,Puducherry,south,2,71,2016,overtaking,Improper Overtaking
+36,Puducherry,south,2,9,2016,signalavoid,Jumping Red Light / Signal Violation
+36,Puducherry,south,2,0,2016,lanejumping,Lane Jumping
+36,Puducherry,south,2,193,2016,othercause,Other Causes
+36,Puducherry,south,2,1297,2016,overspeed,Over-Speeding
+21,Punjab,north,1,127,2014,wrongside,Driving on Wrong Side
+21,Punjab,north,1,442,2014,alcintake,Drunk Driving / Alcohol Intake
+21,Punjab,north,1,34,2014,asleep,Fatigue / Falling Asleep
+21,Punjab,north,1,60,2014,overtaking,Improper Overtaking
+21,Punjab,north,1,17,2014,signalavoid,Jumping Red Light / Signal Violation
+21,Punjab,north,1,211,2014,lanejumping,Lane Jumping
+21,Punjab,north,1,153,2014,othercause,Other Causes
+21,Punjab,north,1,2253,2014,overspeed,Over-Speeding
+21,Punjab,north,1,512,2016,wrongside,Driving on Wrong Side
+21,Punjab,north,1,317,2016,alcintake,Drunk Driving / Alcohol Intake
+21,Punjab,north,1,17,2016,asleep,Fatigue / Falling Asleep
+21,Punjab,north,1,585,2016,overtaking,Improper Overtaking
+21,Punjab,north,1,180,2016,signalavoid,Jumping Red Light / Signal Violation
+21,Punjab,north,1,194,2016,lanejumping,Lane Jumping
+21,Punjab,north,1,498,2016,othercause,Other Causes
+21,Punjab,north,1,2517,2016,overspeed,Over-Speeding
+22,Rajasthan,northwest,6,656,2014,wrongside,Driving on Wrong Side
+22,Rajasthan,northwest,6,915,2014,alcintake,Drunk Driving / Alcohol Intake
+22,Rajasthan,northwest,6,176,2014,asleep,Fatigue / Falling Asleep
+22,Rajasthan,northwest,6,102,2014,overtaking,Improper Overtaking
+22,Rajasthan,northwest,6,2,2014,signalavoid,Jumping Red Light / Signal Violation
+22,Rajasthan,northwest,6,1157,2014,lanejumping,Lane Jumping
+22,Rajasthan,northwest,6,1803,2014,othercause,Other Causes
+22,Rajasthan,northwest,6,11395,2014,overspeed,Over-Speeding
+22,Rajasthan,northwest,6,981,2016,wrongside,Driving on Wrong Side
+22,Rajasthan,northwest,6,673,2016,alcintake,Drunk Driving / Alcohol Intake
+22,Rajasthan,northwest,6,222,2016,asleep,Fatigue / Falling Asleep
+22,Rajasthan,northwest,6,1345,2016,overtaking,Improper Overtaking
+22,Rajasthan,northwest,6,0,2016,signalavoid,Jumping Red Light / Signal Violation
+22,Rajasthan,northwest,6,217,2016,lanejumping,Lane Jumping
+22,Rajasthan,northwest,6,5012,2016,othercause,Other Causes
+22,Rajasthan,northwest,6,13358,2016,overspeed,Over-Speeding
+23,Sikkim,northeast,5,0,2014,wrongside,Driving on Wrong Side
+23,Sikkim,northeast,5,8,2014,alcintake,Drunk Driving / Alcohol Intake
+23,Sikkim,northeast,5,0,2014,asleep,Fatigue / Falling Asleep
+23,Sikkim,northeast,5,0,2014,overtaking,Improper Overtaking
+23,Sikkim,northeast,5,0,2014,signalavoid,Jumping Red Light / Signal Violation
+23,Sikkim,northeast,5,0,2014,lanejumping,Lane Jumping
+23,Sikkim,northeast,5,51,2014,othercause,Other Causes
+23,Sikkim,northeast,5,28,2014,overspeed,Over-Speeding
+23,Sikkim,northeast,5,20,2016,wrongside,Driving on Wrong Side
+23,Sikkim,northeast,5,12,2016,alcintake,Drunk Driving / Alcohol Intake
+23,Sikkim,northeast,5,0,2016,asleep,Fatigue / Falling Asleep
+23,Sikkim,northeast,5,17,2016,overtaking,Improper Overtaking
+23,Sikkim,northeast,5,0,2016,signalavoid,Jumping Red Light / Signal Violation
+23,Sikkim,northeast,5,0,2016,lanejumping,Lane Jumping
+23,Sikkim,northeast,5,0,2016,othercause,Other Causes
+23,Sikkim,northeast,5,45,2016,overspeed,Over-Speeding
+24,Tamil Nadu,south,2,1529,2014,wrongside,Driving on Wrong Side
+24,Tamil Nadu,south,2,1416,2014,alcintake,Drunk Driving / Alcohol Intake
+24,Tamil Nadu,south,2,161,2014,asleep,Fatigue / Falling Asleep
+24,Tamil Nadu,south,2,2171,2014,overtaking,Improper Overtaking
+24,Tamil Nadu,south,2,451,2014,signalavoid,Jumping Red Light / Signal Violation
+24,Tamil Nadu,south,2,1869,2014,lanejumping,Lane Jumping
+24,Tamil Nadu,south,2,6874,2014,othercause,Other Causes
+24,Tamil Nadu,south,2,28804,2014,overspeed,Over-Speeding
+24,Tamil Nadu,south,2,3209,2016,wrongside,Driving on Wrong Side
+24,Tamil Nadu,south,2,531,2016,alcintake,Drunk Driving / Alcohol Intake
+24,Tamil Nadu,south,2,671,2016,asleep,Fatigue / Falling Asleep
+24,Tamil Nadu,south,2,7155,2016,overtaking,Improper Overtaking
+24,Tamil Nadu,south,2,1004,2016,signalavoid,Jumping Red Light / Signal Violation
+24,Tamil Nadu,south,2,2367,2016,lanejumping,Lane Jumping
+24,Tamil Nadu,south,2,4866,2016,othercause,Other Causes
+24,Tamil Nadu,south,2,47055,2016,overspeed,Over-Speeding
+25,Telangana,centre,9,570,2014,wrongside,Driving on Wrong Side
+25,Telangana,centre,9,968,2014,alcintake,Drunk Driving / Alcohol Intake
+25,Telangana,centre,9,157,2014,asleep,Fatigue / Falling Asleep
+25,Telangana,centre,9,526,2014,overtaking,Improper Overtaking
+25,Telangana,centre,9,22,2014,signalavoid,Jumping Red Light / Signal Violation
+25,Telangana,centre,9,232,2014,lanejumping,Lane Jumping
+25,Telangana,centre,9,4065,2014,othercause,Other Causes
+25,Telangana,centre,9,6266,2014,overspeed,Over-Speeding
+25,Telangana,centre,9,156,2016,wrongside,Driving on Wrong Side
+25,Telangana,centre,9,202,2016,alcintake,Drunk Driving / Alcohol Intake
+25,Telangana,centre,9,14,2016,asleep,Fatigue / Falling Asleep
+25,Telangana,centre,9,539,2016,overtaking,Improper Overtaking
+25,Telangana,centre,9,52,2016,signalavoid,Jumping Red Light / Signal Violation
+25,Telangana,centre,9,37,2016,lanejumping,Lane Jumping
+25,Telangana,centre,9,1301,2016,othercause,Other Causes
+25,Telangana,centre,9,13615,2016,overspeed,Over-Speeding
+26,Tripura,east,3,29,2014,wrongside,Driving on Wrong Side
+26,Tripura,east,3,12,2014,alcintake,Drunk Driving / Alcohol Intake
+26,Tripura,east,3,0,2014,asleep,Fatigue / Falling Asleep
+26,Tripura,east,3,0,2014,overtaking,Improper Overtaking
+26,Tripura,east,3,1,2014,signalavoid,Jumping Red Light / Signal Violation
+26,Tripura,east,3,7,2014,lanejumping,Lane Jumping
+26,Tripura,east,3,0,2014,othercause,Other Causes
+26,Tripura,east,3,499,2014,overspeed,Over-Speeding
+26,Tripura,east,3,15,2016,wrongside,Driving on Wrong Side
+26,Tripura,east,3,5,2016,alcintake,Drunk Driving / Alcohol Intake
+26,Tripura,east,3,0,2016,asleep,Fatigue / Falling Asleep
+26,Tripura,east,3,56,2016,overtaking,Improper Overtaking
+26,Tripura,east,3,0,2016,signalavoid,Jumping Red Light / Signal Violation
+26,Tripura,east,3,0,2016,lanejumping,Lane Jumping
+26,Tripura,east,3,28,2016,othercause,Other Causes
+26,Tripura,east,3,413,2016,overspeed,Over-Speeding
+28,Uttar Pradesh,north,1,763,2014,wrongside,Driving on Wrong Side
+28,Uttar Pradesh,north,1,1232,2014,alcintake,Drunk Driving / Alcohol Intake
+28,Uttar Pradesh,north,1,238,2014,asleep,Fatigue / Falling Asleep
+28,Uttar Pradesh,north,1,392,2014,overtaking,Improper Overtaking
+28,Uttar Pradesh,north,1,115,2014,signalavoid,Jumping Red Light / Signal Violation
+28,Uttar Pradesh,north,1,362,2014,lanejumping,Lane Jumping
+28,Uttar Pradesh,north,1,1915,2014,othercause,Other Causes
+28,Uttar Pradesh,north,1,2561,2014,overspeed,Over-Speeding
+28,Uttar Pradesh,north,1,2560,2016,wrongside,Driving on Wrong Side
+28,Uttar Pradesh,north,1,4633,2016,alcintake,Drunk Driving / Alcohol Intake
+28,Uttar Pradesh,north,1,1121,2016,asleep,Fatigue / Falling Asleep
+28,Uttar Pradesh,north,1,3937,2016,overtaking,Improper Overtaking
+28,Uttar Pradesh,north,1,632,2016,signalavoid,Jumping Red Light / Signal Violation
+28,Uttar Pradesh,north,1,1123,2016,lanejumping,Lane Jumping
+28,Uttar Pradesh,north,1,4093,2016,othercause,Other Causes
+28,Uttar Pradesh,north,1,10184,2016,overspeed,Over-Speeding
+27,Uttarakhand,north,1,99,2014,wrongside,Driving on Wrong Side
+27,Uttarakhand,north,1,508,2014,alcintake,Drunk Driving / Alcohol Intake
+27,Uttarakhand,north,1,0,2014,asleep,Fatigue / Falling Asleep
+27,Uttarakhand,north,1,15,2014,overtaking,Improper Overtaking
+27,Uttarakhand,north,1,7,2014,signalavoid,Jumping Red Light / Signal Violation
+27,Uttarakhand,north,1,69,2014,lanejumping,Lane Jumping
+27,Uttarakhand,north,1,72,2014,othercause,Other Causes
+27,Uttarakhand,north,1,94,2014,overspeed,Over-Speeding
+27,Uttarakhand,north,1,105,2016,wrongside,Driving on Wrong Side
+27,Uttarakhand,north,1,40,2016,alcintake,Drunk Driving / Alcohol Intake
+27,Uttarakhand,north,1,0,2016,asleep,Fatigue / Falling Asleep
+27,Uttarakhand,north,1,132,2016,overtaking,Improper Overtaking
+27,Uttarakhand,north,1,0,2016,signalavoid,Jumping Red Light / Signal Violation
+27,Uttarakhand,north,1,0,2016,lanejumping,Lane Jumping
+27,Uttarakhand,north,1,70,2016,othercause,Other Causes
+27,Uttarakhand,north,1,736,2016,overspeed,Over-Speeding
+29,West Bengal,east,3,205,2014,wrongside,Driving on Wrong Side
+29,West Bengal,east,3,0,2014,alcintake,Drunk Driving / Alcohol Intake
+29,West Bengal,east,3,49,2014,asleep,Fatigue / Falling Asleep
+29,West Bengal,east,3,257,2014,overtaking,Improper Overtaking
+29,West Bengal,east,3,106,2014,signalavoid,Jumping Red Light / Signal Violation
+29,West Bengal,east,3,179,2014,lanejumping,Lane Jumping
+29,West Bengal,east,3,1356,2014,othercause,Other Causes
+29,West Bengal,east,3,3339,2014,overspeed,Over-Speeding
+29,West Bengal,east,3,93,2016,wrongside,Driving on Wrong Side
+29,West Bengal,east,3,462,2016,alcintake,Drunk Driving / Alcohol Intake
+29,West Bengal,east,3,22,2016,asleep,Fatigue / Falling Asleep
+29,West Bengal,east,3,122,2016,overtaking,Improper Overtaking
+29,West Bengal,east,3,90,2016,signalavoid,Jumping Red Light / Signal Violation
+29,West Bengal,east,3,53,2016,lanejumping,Lane Jumping
+29,West Bengal,east,3,6915,2016,othercause,Other Causes
+29,West Bengal,east,3,1473,2016,overspeed,Over-Speeding

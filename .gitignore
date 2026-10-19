@@ -1,0 +1,19 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+~$*.xlsx
+*.twb.lock
+*.twbx.lock
+
+# Python / notebook runtime artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Tableau temporary files
+*.tde
+*.hyper
